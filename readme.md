@@ -58,30 +58,30 @@ I'm a **Full Stack Developer** on a mission to architect scalable systems and cr
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                 PRINCIPLES IN ACTION                  ┃
+┃                 PRINCIPLES IN ACTION                ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                       ┃
+┃                                                     ┃
 ┃  🖋️  WRITE STORIES                                   ┃
 ┃     └─ Clean, self-documenting code                  ┃
 ┃     └─ Clear architectural patterns                  ┃
-┃                                                       ┃
+┃                                                      ┃
 ┃  📈 BUILD FOR SCALE                                  ┃
 ┃     └─ Efficient database design                     ┃
 ┃     └─ Optimized API endpoints                       ┃
-┃                                                       ┃
+┃                                                      ┃
 ┃  👥 PRIORITIZE USERS                                 ┃
 ┃     └─ Intuitive interfaces                          ┃
 ┃     └─ Seamless interactions                         ┃
-┃                                                       ┃
+┃                                                      ┃
 ┃  📚 EMBRACE LEARNING                                 ┃
 ┃     └─ Continuous skill evolution                    ┃
 ┃     └─ Experimental implementations                  ┃
-┃                                                       ┃
+┃                                                      ┃
 ┃  🌍 CONTRIBUTE MEANINGFULLY                          ┃
 ┃     └─ Real-world problem solving                    ┃
 ┃     └─ Community collaboration                       ┃
-┃                                                       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃                                                      ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 ---
